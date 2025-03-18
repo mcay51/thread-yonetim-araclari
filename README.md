@@ -86,11 +86,3 @@ java -cp src ThreadBasicsMain
 ## Gereksinimler
 
 - Java 8 veya üzeri
-
-## Katkıda Bulunma
-
-Yeni örnekler eklemek, mevcut örnekleri geliştirmek veya hataları düzeltmek için pull request gönderebilirsiniz.
-
-## Lisans
-
-Bu projeler MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakınız. 
